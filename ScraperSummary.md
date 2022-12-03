@@ -2,8 +2,8 @@
 This document details the sources from which the data was pulled, the methods(not detailed), and the JSON file data format.
 
 ## Sources & Methods
-The first data source, https://www.worldometers.info/coronavirus/#main_table, contained covid data for many countries.
-The second data source, https://www.worldometers.info/world-population/population-by-country/, contained population data for many countries.
+The first data source, https://www.worldometers.info/coronavirus/#main_table, contains covid data for many countries.
+The second data source, https://www.worldometers.info/world-population/population-by-country/, contains population data for many countries.
 
 The first source was used to get all the required data for this project.
 The second source was used to obtain a list of countries from which we would pull the data for.
