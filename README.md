@@ -10,4 +10,6 @@ The web scraping module used was BeautifulSoup, and the parser used was html5lib
 
 Once these installations are complete, open ScrapeWebsite.py in Visual Studio Code, or whichever IDE you prefer. Near the end of the file is an "outpath" string variable with a "fr" prefix. Change the path within the quotes to the file-path for the folder you want the JSON file to appear in once the code is executed. The naming convention for the output file is "covid_data_{yesterday's date}.json". Save and close ScrapeWebsite.py.
 
-Next, open command prompt in the folder containing ScrapeWebsite.py. Run the following command: python ScrapeWebsite.py. On average, it took roughly 3.5 minutes for the execution to complete and the JSON file to appear in the designated "outpath" folder.
+Next, open command prompt in the folder containing ScrapeWebsite.py. Run the following command: 
+ * python ScrapeWebsite.py
+On average, it took roughly 3.5 minutes for the execution to complete and the JSON file to appear in the designated "outpath" folder.
